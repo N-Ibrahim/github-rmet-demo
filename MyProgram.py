@@ -15,4 +15,3 @@ def divide(first_number, second_number):
 print(add(-5,7))
 print(subtract(-5,7))
 print(multiply(-5,7))
-print("Display...")
