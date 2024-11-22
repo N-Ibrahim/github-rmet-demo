@@ -12,7 +12,7 @@ class TestAdd(unittest.TestCase):
     	self.assertFalse(add(3,5) == 9)
 		
     def test_onetwo(self):
-    	self.assertTrue(add(1,2) == 3)
+    	self.assertTrue(add(1,6) == 3)
 
 class TestSubtract(unittest.TestCase):
     def test_TrueSubtract(self):
